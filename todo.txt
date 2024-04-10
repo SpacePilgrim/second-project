@@ -1,0 +1,5 @@
+New todo list:
+
+#1 check if git is working good
+#2 be happy
+#3 smth else
